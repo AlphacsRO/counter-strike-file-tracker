@@ -2171,6 +2171,7 @@
             "ItemHistory_Action_Drop": "Earned a new rank and got a drop",
             "ItemHistory_Action_ManualCreate": "Created by Counter-Strike Support",
             "ItemHistory_Action_Purchase": "Purchased from the store",
+            "ItemHistory_Action_PurchaseVolatileContainerItem": "Purchased from Arms Dealer",
             "ItemHistory_Action_AutoGrantItem": "Earned",
             "ItemHistory_Action_CrossGameAchievement": "Earned from unlocking an achievement in a different game",
             "ItemHistory_Action_AwardGift_Receiver": "Received a gift",
